@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Data - Do NOT commit datasets
+/data/
+/results/
+/logs/
+/temp/
+
+# Local data preparation files
+metadata_mapping.csv
+metadata_mapping_template.csv
+preprocessing_report.txt
+
+# Environment & Secrets
+.env
+*.env.*
+
+# OS specific / Temporary
+.DS_Store
+.~lock.*#

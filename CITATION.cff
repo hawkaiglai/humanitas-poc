@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "HUMANITAS: A Privacy-Preserving System for Sybil-Resistant Identity using Multi-Modal Biometric Fusion and Zero-Knowledge Proofs"
+message: "If you use this software in your research, please cite it."
+type: software
+authors:
+  - family-names: "Chuks-Onah"
+    given-names: "Stephen"
+    orcid: "https://orcid.org/0009-0008-3159-9526"
+version: 1.0.0
+date-released: 2025-06-20
+repository-code: "https://github.com/hawkaiglai/humanitas-poc"
+license: MIT
+keywords: ["biometrics", "proof-of-personhood", "digital-identity", "zero-knowledge-proofs", "sybil-resistance"]
